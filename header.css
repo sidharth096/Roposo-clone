@@ -1,0 +1,24 @@
+.header{
+    background-color: black;
+}
+.nav-link{
+   color: white
+}
+.navbar-toggler-icon{
+    
+
+}
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    
+
+}
+.separator{
+    width: 1px;
+    height: 10px;
+    color: white;
+}
+
+

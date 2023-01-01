@@ -1,0 +1,156 @@
+.first-section{
+    width: 100%;
+    background-image: linear-gradient(135deg, #ff00cc,  #333399);
+    height: 37.5rem;
+    position: relative;
+     z-index: -1;
+
+}
+.design{
+    width: 1005;
+    position: absolute;
+    height: 37.5em; ;
+    z-index: -1;
+    
+    
+}
+.para{
+    color: white;
+    font-weight: bold;
+    font-size: 60px;  
+    margin-top: 10%; 
+    
+}
+.img1{
+    width: 270px;
+    height: 400px;
+    margin-top: 200px;
+
+}
+
+body{
+    margin: 0;
+    padding: 0;
+}
+@media only screen and (max-width: 800px) {
+    #img-container{
+        display: none;
+    }
+    #first-section1{
+        height:30rem ;
+
+    }
+    #design1{
+        height:30rem ;
+    }
+    #para1{
+        font-size: 50px;
+    }
+    #why-spotify1{
+       font-size: 1.8rem;
+
+    }
+    #section-2{
+        height: 15rem;
+    }
+    #para-2{
+        font-size: 2rem;
+    }
+    #foot-inside1 {
+      display: flex;
+      flex-direction: column;
+    }
+    #footer-1{
+      height: 61rem;
+    }
+    #foot-2{
+      display: flex;
+      flex-direction: column;
+      height: 37rem;
+    }
+    #foot-1{
+      height: 6rem;
+    }
+    #foot-3{
+      height: 5rem;
+    }
+    #foot-ul-5{
+      display: flex;
+      flex-direction: column;
+    }
+    #foot-5{
+      height: 8rem;
+    }
+
+  }
+  .why-spotify{
+    font-weight: bold;
+    font-size: 2.2rem ;
+
+  }
+  .card-img-top{
+    width: 9rem;
+    
+  }
+  .card{
+    border: 0;
+  }
+  .section2{
+    width: 100%;
+    height: 30rem;
+    background : linear-gradient(rgb(176, 35, 194) 15%, rgb(96, 11, 231));
+  }
+  .para2{
+    font-weight: bold;
+    font-size: 3rem;
+  }
+  strong{
+    color: green;
+  }
+  .para4{
+    color: white;
+    font-weight: bold;
+    font-size: 60px; 
+    margin-top:10%;
+  }
+  .btn4{
+   width:11rem;
+  }
+  footer{
+    background-color: black;
+    width: 100%;
+    height: 33rem;
+    display: flex;
+  }
+  .foot1{
+    display: flex;
+    width: 18%;
+    height:26rem ;
+  }
+  .foot2{
+    width: 49%;
+    height:26rem ;
+    
+  }
+  .foot3{
+    width: 33%;
+    height:26rem ;
+    margin-left: 3rem;
+  
+  }
+  .foot4{
+    width: 100%;
+    height: 4rem;
+  }
+  .foot5{
+    width: 100%;
+    height: 3rem;
+
+  }
+  .spotify-logo-img{
+    width: 2rem;
+    height: 2rem;
+  }
+  ul{
+    list-style-type: none;
+  }
